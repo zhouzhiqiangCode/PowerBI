@@ -1,6 +1,6 @@
-It is just a test 1
-OH, my god.
-I'm not quite happy these days.
+It is just a test 2
+OH, my godness.
+I'm quite happy these days.
 
 
 
@@ -10,6 +10,5 @@ I'm not quite happy these days.
 
 
 HELLO
-Have a nice day.
-Baby.
+Have a nice day, Baby.
 ~~~~~~~~~
