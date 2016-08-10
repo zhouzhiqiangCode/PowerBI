@@ -1,6 +1,6 @@
 OH, my godness.
 I'm quite happy these days.
-Today is Wednesday.
+Today is Thursday.
 
 
 
@@ -9,6 +9,6 @@ Life is like choclate, you never know what happens next time.
 
 
 
-HELLO
-Have a nice day, Bab.
+HELLO,WORLD
+Have a nice day, Baby.
 ~~~~~~~~~
